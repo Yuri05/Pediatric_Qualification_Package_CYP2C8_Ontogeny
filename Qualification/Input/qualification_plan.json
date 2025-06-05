@@ -3,7 +3,7 @@
     "Projects": [
         {
             "Id": "Montelukast",
-            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Montelukast-Model/v1.2/Montelukast.json",
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Montelukast-Model/v2.0/Montelukast.json",
             "BuildingBlocks": []
         },
         {
