@@ -149,7 +149,7 @@
                     {
                         "Color": "#000000",
                         "Caption": "All compounds",
-                        "Symbol": "Circle",
+                        "Symbol": "CircleOpen",
                         "PKRatios": [
                             {
                                 "Project": "Montelukast-Pediatrics",
@@ -555,7 +555,7 @@
                     {
                         "Color": "#000000",
                         "Caption": "Montelukast iv",
-                        "Symbol": "Circle",
+                        "Symbol": "CircleOpen",
                         "PKRatios": [
                             {
                                 "Project": "Montelukast-Pediatrics",
