@@ -1,0 +1,9 @@
+name: Check Latest Model Releases in a Qualification Plan
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check-latest-releases:
+    uses: ./.github/workflows/CheckForLatestModelReleasesInQualificationPlan.yml
