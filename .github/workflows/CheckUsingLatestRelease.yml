@@ -6,4 +6,4 @@ on:
 
 jobs:
   check-latest-releases:
-    uses: Open-Systems-Pharmacology/Workflows/.github/workflows/CheckForLatestModelReleasesInQualificationPlan.yml@main
+    uses: Open-Systems-Pharmacology/Workflows/.github/workflows/QualificationPlan_ModelVersionCheck.yml@main
